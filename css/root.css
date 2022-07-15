@@ -1,0 +1,211 @@
+:root {
+    /* Colors: */
+    --primária-e1173f: #e1173f;
+    --primária-af002b: #af002b;
+    --primária-c50030: #c50030;
+    --secundária-73308b: #73308b;
+    --secundária-b41a83: #b41a83;
+    --secundária-f36279: #f36279;
+    --secundária-2b469c: #2b469c;
+    --sinalizadora-3b69ff: #3b69ff;
+    --sinalizadora-ffbc00: #ffbc00;
+    --sinalizadora-0bcc56: #0bcc56;
+    --alertas-e6faee: #e6faee;
+    --alertas-fefbd5: #fefbd5;
+    --alertas-fce7eb: #fce7eb;
+    --alertas-ebf0ff: #ebf0ff;
+    --alertas-f1eaf3: #f1eaf3;
+    --cinzas-ffffff: #ffffff;
+    --cinzas-f0f1f5: #f0f1f5;
+    --cinzas-e4e5e9: #e4e5e9;
+    --cinzas-a7a8ac: #a7a8ac;
+    --cinzas-6d6e71: #6d6e71;
+    --cinzas-47484c: #47484c;
+    --cinzas-000000: #000000;
+
+    /* Font/text values */
+    --unnamed-font-family-bradesco-sans: Bradesco Sans;
+    --unnamed-font-style-normal: normal;
+    --unnamed-font-weight-600: 600px;
+    --unnamed-font-weight-normal: normal;
+    --unnamed-font-weight-medium: medium;
+    --unnamed-font-weight-bold: bold;
+    --unnamed-font-size-12: 12px;
+    --unnamed-font-size-13: 13px;
+    --unnamed-font-size-14: 14px;
+    --unnamed-font-size-16: 16px;
+    --unnamed-font-size-20: 20px;
+    --unnamed-font-size-22: 22px;
+    --unnamed-character-spacing-0: 0px;
+    --unnamed-character-spacing-1-2: 1.2px;
+    --unnamed-line-spacing-18: 18px;
+    --unnamed-line-spacing-19: 19px;
+    --unnamed-line-spacing-20: 20px;
+    --unnamed-line-spacing-22: 22px;
+    --unnamed-line-spacing-24: 24px;
+    --unnamed-line-spacing-28: 28px;
+    --unnamed-text-transform-uppercase: uppercase;
+}
+
+/* Character Styles */
+.unnamed-character-style-1 {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-medium);
+    font-size: var(--unnamed-font-size-12);
+    line-height: var(--unnamed-line-spacing-20);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-6d6e71);
+}
+.unnamed-character-style-2 {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-normal);
+    font-size: var(--unnamed-font-size-12);
+    line-height: var(--unnamed-line-spacing-19);
+    letter-spacing: var(--unnamed-character-spacing-1-2);
+    color: var(--cinzas-ffffff);
+}
+.unnamed-character-style-3 {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-bold);
+    font-size: var(--unnamed-font-size-16);
+    line-height: var(--unnamed-line-spacing-20);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-ffffff);
+}
+.body-2-paragráfo-pequeno-14-pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-medium);
+    font-size: var(--unnamed-font-size-14);
+    line-height: var(--unnamed-line-spacing-18);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-47484c);
+}
+.legenda-13-pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-medium);
+    font-size: var(--unnamed-font-size-13);
+    line-height: var(--unnamed-line-spacing-18);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-47484c);
+}
+.body-1-paragráfo-médio-16-pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-medium);
+    font-size: var(--unnamed-font-size-16);
+    line-height: var(--unnamed-line-spacing-20);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-47484c);
+}
+.h1-título-de-página-22-pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-600);
+    font-size: var(--unnamed-font-size-22);
+    line-height: var(--unnamed-line-spacing-28);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-000000);
+}
+.h2-titulo-grande-20-pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-600);
+    font-size: var(--unnamed-font-size-20);
+    line-height: var(--unnamed-line-spacing-24);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-000000);
+}
+.h4-título-pequeno-14-pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-600);
+    font-size: var(--unnamed-font-size-14);
+    line-height: var(--unnamed-line-spacing-18);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-000000);
+}
+.h3-titulo-médio-16-pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-600);
+    font-size: var(--unnamed-font-size-16);
+    line-height: var(--unnamed-line-spacing-20);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-000000);
+}
+.-m-título-lista-de-dados-13-pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-600);
+    font-size: var(--unnamed-font-size-13);
+    line-height: var(--unnamed-line-spacing-20);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-47484c);
+    text-transform: var(--unnamed-text-transform-uppercase);
+}
+.-m-lista-média-16-pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-medium);
+    font-size: var(--unnamed-font-size-16);
+    line-height: var(--unnamed-line-spacing-20);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-a7a8ac);
+}
+.-m-lista-pequena-14-pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-medium);
+    font-size: var(--unnamed-font-size-14);
+    line-height: var(--unnamed-line-spacing-18);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-a7a8ac);
+}
+.links-—-14pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-600);
+    font-size: var(--unnamed-font-size-14);
+    line-height: var(--unnamed-line-spacing-22);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--sinalizadora-3b69ff);
+}
+.título-legenda-—-13pt {
+    font-family: var(--unnamed-font-family-bradesco-sans);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-600);
+    font-size: var(--unnamed-font-size-13);
+    line-height: var(--unnamed-line-spacing-18);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-000000);
+}
+
+@font-face {
+    font-family: Bradesco Sans;
+    src: url(../fonts/BradescoSans-Regular.woff);
+}
+@font-face {
+    font-family: Bradesco Sans XBold;
+    src: url(../fonts/BradescoSans-XBold.woff);
+}
+@font-face {
+    font-family: Bradesco Sans Bold;
+    src: url(../fonts/BradescoSans-Bold.woff);
+}
+@font-face {
+    font-family: Bradesco Sans SemiBold;
+    src: url(../fonts/BradescoSans-SemiBold.woff);
+}
+@font-face {
+    font-family: Bradesco Sans Medium;
+    src: url(../fonts/BradescoSans-Medium.woff);
+}
+
+body {
+    font-family: Bradesco Sans !important;
+}

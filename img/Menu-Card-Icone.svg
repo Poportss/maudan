@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49.25" height="49.25" viewBox="0 0 49.25 49.25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_4363" data-name="Retângulo 4363" width="32" height="32" fill="#fff" stroke="#707070" stroke-width="1.25"/>
+    </clipPath>
+  </defs>
+  <g id="Menu_Card_Icone" data-name="Menu/Card/Icone" transform="translate(-918.714 -888.385)">
+    <path id="Stroke_4408" data-name="Stroke 4408" d="M48,24A24,24,0,1,1,24,0,24,24,0,0,1,48,24Z" transform="translate(919.339 889.01)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+    <g id="I_-_Antecipação_décimo_terceiro" data-name="I - Antecipação décimo terceiro" transform="translate(927.339 897.01)">
+      <g id="Grupo_de_máscara_37" data-name="Grupo de máscara 37" clip-path="url(#clip-path)">
+        <g id="Grupo_26467" data-name="Grupo 26467" transform="translate(4.189 0.63)">
+          <g id="Grupo_23860" data-name="Grupo 23860" transform="translate(0.573 0)">
+            <path id="Caminho_10216" data-name="Caminho 10216" d="M-4847.723-5062.165" transform="translate(4855.604 5069.016)" fill="none" stroke="#ff003e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Caminho_10217" data-name="Caminho 10217" d="M-4951.754-5057.116c1.98-2.986,4.538-5.048,7.313-5.048,6.2,0,11.631,10.078,11.631,17.953,0,5.96-4.582,5.932-11,5.932s-11.936.229-11.936-5.731a24.012,24.012,0,0,1,1.23-7.27" transform="translate(4955.748 5069.015)" fill="none" stroke="#ff003e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <line id="Linha_50" data-name="Linha 50" x2="12.547" transform="translate(5.082 6.47)" fill="none" stroke="#ff003e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <g id="Grupo_23859" data-name="Grupo 23859" transform="translate(4.046)">
+              <path id="Caminho_10218" data-name="Caminho 10218" d="M-4895.487-5149.74l-4.522-4.446a1.162,1.162,0,0,1,1.043-1.88h12.044a1.159,1.159,0,0,1,1.011,1.916l-5.136,4.41" transform="translate(4900.287 5156.065)" fill="none" stroke="#ff003e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            </g>
+          </g>
+          <line id="Linha_50-2" data-name="Linha 50" x2="12.108" transform="translate(0 12.327)" fill="none" stroke="#ff003e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+          <path id="Caminho_9530" data-name="Caminho 9530" d="M-4960.908-5023.986l-2.691,2.689,2.691,2.69" transform="translate(4963.599 5033.622)" fill="none" stroke="#ff003e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

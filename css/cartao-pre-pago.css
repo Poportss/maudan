@@ -1,0 +1,346 @@
+.div-cartao-pre-pago {
+    margin-top: 6rem;
+}
+
+.titulo-secoes {
+    color: var(--cinzas-000000);
+    letter-spacing: 0px;
+    color: #000000;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.separador-card {
+    width: 50px;
+    height: 3px;
+    background: #065F9B 0% 0% no-repeat padding-box;
+    border-radius: 2px;
+    opacity: 1;
+    margin-top: 0.7rem;
+    margin-bottom: 1.5rem;
+}
+
+.text-card p {
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-000000);
+    opacity: 0.6;
+    font-size: 16px;
+    margin-bottom: 1.5rem;
+}
+
+.img-card {
+    background-image: url("../img/faixada.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.item-carousel {
+    width: 291px !important;
+    height: 296px;
+    box-shadow: 0px 3px 16px #00000029;
+    border-radius: 32px !important;
+    opacity: 1;
+    border: none !important;
+    background: var(--cinzas-ffffff) 0% 0% no-repeat padding-box;
+}
+
+.pointer {
+    cursor: pointer;
+    color: #065F9B !important;
+}
+
+.title-card-beneficios {
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--cinzas-000000);
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.item-carousel div p {
+    color: var(--cinzas-000000);
+    letter-spacing: 0px;
+    opacity: 0.6;
+    font-size: 14px;
+}
+
+.slick-slide {
+    filter: blur(0.6px);
+    opacity: 0.6;
+}
+
+.slick-active {
+    filter: blur(0);
+    opacity: 1;
+}
+
+.progress {
+    width: 250px;
+    height: 6px !important;
+    border-radius: 0% !important;
+}
+
+.progress-bar {
+    background: #065F9B !important;
+}
+
+.img-consultas-card {
+    background-image: url("../img/trubo-card.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.btn-padrao-min {
+    width: 200px;
+    height: 48px;
+    border-radius: 24px !important;
+    border: none !important;
+    font-size: 14px !important;
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+.btn-padrao-outline {
+    width: 200px;
+    height: 48px;
+    background: var(--cinzas-ffffff) !important;
+    border-radius: 24px !important;
+    border: 1px solid  #065F9B!important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+    color: #065F9B !important;
+}
+.btn-mobile a {
+    color: #065F9B;
+    text-decoration: none;
+}
+.btn-mobile a:hover{
+    color: #E1173F;
+    text-decoration: none;
+}
+
+.btn-mobile a{
+    color:  #065F9B !important;
+    text-decoration: none;
+}
+.btn-mobile a:hover{
+    color:  #065F9B !important;
+    text-decoration: none;
+}
+.btn a{
+    color:  #fff;
+    text-decoration: none;
+}
+.btn a:hover{
+    color:  #fff;
+    text-decoration: none;
+}
+.card-info-complementar {
+    box-shadow: 0px 3px 6px #00000029 !important;
+    border-radius: 0px 0px 10px 10px !important;
+    opacity: 1;
+}
+
+.icon-up {
+    transform: rotate(90deg);
+}
+
+.icon-down {
+    transform: rotate(270deg);
+}
+
+.text-card-mobile {
+    font-size: 14px;
+    letter-spacing: 0px;
+    color: #6d6e71;
+    opacity: 1;
+}
+
+.slick-dots li button:before {
+    font-size: 10px !important;
+}
+
+.slick-dots li {
+    margin: 0 0px !important;
+}
+
+@media (min-width: 320px) {
+    .title-card-beneficios {
+        font-size: 12px;
+        font-weight: normal;
+    }
+
+    .item-carousel div p {
+        color: var(--cinzas-000000);
+        letter-spacing: 0px;
+        opacity: 1;
+        font-size: 12px;
+    }
+
+    .item-carousel {
+        width: 194px !important;
+        height: 224px;
+        background: var(--cinzas-ffffff) 0% 0% no-repeat padding-box;
+        border: 1px solid var(--cinzas-f0f1f5);
+        box-shadow: 0px 3px 6px #00000029;
+        border-radius: 8px !important;
+        opacity: 1;
+    }
+
+    .slick-list {
+        padding-left: 1rem !important;
+    }
+
+    .section-cartao {
+        margin-top: 2rem;
+    }
+}
+
+@media (min-width: 375px) {
+    .title-card-beneficios {
+        font-size: 12px;
+        font-weight: normal;
+    }
+
+    .item-carousel div p {
+        color: var(--cinzas-000000);
+        letter-spacing: 0px;
+        opacity: 1;
+        font-size: 12px;
+    }
+
+    .item-carousel {
+        width: 194px !important;
+        height: 224px;
+        background: var(--cinzas-ffffff) 0% 0% no-repeat padding-box;
+        border: 1px solid var(--cinzas-f0f1f5);
+        box-shadow: 0px 3px 6px #00000029;
+        border-radius: 8px !important;
+        opacity: 1;
+    }
+
+    .slick-list {
+        padding-left: 1rem !important;
+    }
+
+    .section-cartao {
+        margin-top: 2rem;
+    }
+}
+
+@media (min-width: 425px) {
+    .title-card-beneficios {
+        font-size: 12px;
+        font-weight: normal;
+    }
+
+    .item-carousel div p {
+        color: var(--cinzas-000000);
+        letter-spacing: 0px;
+        opacity: 1;
+        font-size: 12px;
+    }
+
+    .item-carousel {
+        width: 194px !important;
+        height: 224px;
+        background: var(--cinzas-ffffff) 0% 0% no-repeat padding-box;
+        border: 1px solid var(--cinzas-f0f1f5);
+        box-shadow: 0px 3px 6px #00000029;
+        border-radius: 8px !important;
+        opacity: 1;
+    }
+
+    .slick-list {
+        padding-left: 1rem !important;
+    }
+
+    .section-cartao {
+        margin-top: 2rem;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .title-card-beneficios {
+        font-size: 12px;
+        font-weight: normal;
+    }
+
+    .item-carousel div p {
+        color: var(--cinzas-000000);
+        letter-spacing: 0px;
+        opacity: 1;
+        font-size: 12px;
+    }
+
+    .item-carousel {
+        width: 194px !important;
+        height: 224px;
+        background: var(--cinzas-ffffff) 0% 0% no-repeat padding-box;
+        border: 1px solid var(--cinzas-f0f1f5);
+        box-shadow: 0px 3px 6px #00000029;
+        border-radius: 8px !important;
+        opacity: 1;
+    }
+
+    .slick-list {
+        padding-left: 2rem !important;
+    }
+
+    .section-cartao {
+        margin-top: 4rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .title-card-beneficios {
+        letter-spacing: var(--unnamed-character-spacing-0);
+        color: var(--cinzas-000000);
+        font-size: 22px;
+        font-weight: 600;
+    }
+
+    .item-carousel div p {
+        color: var(--cinzas-000000);
+        letter-spacing: 0px;
+        opacity: 0.6;
+        font-size: 14px;
+    }
+
+    .slick-list {
+        padding-left: 5.5rem !important;
+    }
+
+    .item-carousel {
+        width: 291px !important;
+        height: 296px;
+        box-shadow: 0px 3px 16px #00000029;
+        border-radius: 32px !important;
+        border: none !important;
+        background: var(--cinzas-ffffff) 0% 0% no-repeat padding-box;
+    }
+
+    .section-cartao {
+        margin-top: 6rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .title-card-beneficios {
+        letter-spacing: var(--unnamed-character-spacing-0);
+        color: var(--cinzas-000000);
+        font-size: 22px;
+        font-weight: 600;
+    }
+
+    .slick-list {
+        padding-left: 10rem !important;
+    }
+}
+
+
+
+
+
+
+

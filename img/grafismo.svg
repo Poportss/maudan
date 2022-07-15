@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="464.13" viewBox="0 0 390 464.13">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_3767" data-name="Retângulo 3767" width="360.899" height="438" transform="translate(20)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Caminho_3720" x="2.734" y="106.17" width="290.217" height="187.42" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" y1="1" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f36178"/>
+      <stop offset="0.429" stop-color="#cb0a34"/>
+      <stop offset="1" stop-color="#b41a83"/>
+    </linearGradient>
+  </defs>
+  <g id="grafismo" transform="translate(-20)" opacity="0.6">
+    <g id="Grupo_de_máscara_114" data-name="Grupo de máscara 114" clip-path="url(#clip-path)">
+      <path id="Caminho_3721" data-name="Caminho 3721" d="M-310.43,504.662,486.49,965.111M-309.918,496.955,487,957.4M-309.4,489.247,487.515,949.7M-308.892,481.541l796.919,460.45M-308.38,473.834,488.54,934.283M-307.867,466.127,489.052,926.576M-307.355,458.42l796.92,460.449M-306.842,450.713,490.077,911.162M-306.33,443.006,490.59,903.455M-305.817,435.3,491.1,895.749M-305.3,427.592l796.919,460.45M-304.792,419.885l796.92,460.45M-304.28,412.178,492.64,872.627M-303.767,404.471,493.153,864.92M-303.254,396.764,493.665,857.213M-302.742,389.057l796.92,460.449M-302.23,381.35,494.69,841.8M-301.717,373.644,495.2,834.093M-301.2,365.937l796.92,460.448M-300.692,358.229l796.92,460.45M-300.179,350.522,496.74,810.972" transform="translate(-91.842 -485.522)" fill="#e1173f" stroke="#e1173f" stroke-width="0.374"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 20, 0)" filter="url(#Caminho_3720)">
+      <path id="Caminho_3720-2" data-name="Caminho 3720" d="M0,11.943,272.217,169.42V156.607L0,0Z" transform="translate(11.73 112.17)" fill="#fff"/>
+    </g>
+    <path id="Caminho_3719" data-name="Caminho 3719" d="M0,12.868,293.3,182.54v-14.3L0,0Z" transform="translate(116.703 281.59)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

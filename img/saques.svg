@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Grupo_23923" data-name="Grupo 23923" transform="translate(-496.236 -729.236)">
+    <g id="Elipse_1531" data-name="Elipse 1531" transform="translate(496.236 729.236)" fill="none" stroke="#e1173f" stroke-width="1">
+      <circle cx="28" cy="28" r="28" stroke="none"/>
+      <circle cx="28" cy="28" r="27.5" fill="none"/>
+    </g>
+    <g id="Grupo_23959" data-name="Grupo 23959" transform="translate(469.906 2656.589)">
+      <g id="Grupo_23820" data-name="Grupo 23820" transform="translate(44.559 -1911.053)">
+        <path id="Caminho_10196" data-name="Caminho 10196" d="M49.467-1905.791h-4.5a.409.409,0,0,1-.409-.409v-4.443a.409.409,0,0,1,.409-.409H64.925a.409.409,0,0,1,.409.409v4.443a.409.409,0,0,1-.409.409h-4.5" transform="translate(-44.559 1911.053)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Grupo_23987" data-name="Grupo 23987" transform="translate(53.933 -1904.01)">
+        <path id="Stroke_4426" data-name="Stroke 4426" d="M81.513-1880.788c-.044-.449-.464-.811-1.362-.811a1.136,1.136,0,0,0-1.242,1.017c0,.013,0,.027,0,.04-.029.551.188.941,1.26,1.186s1.362.637,1.347,1.186c-.029.521-.306,1.057-1.347,1.057-1,0-1.217-.449-1.26-.8" transform="translate(-78.903 1882.599)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Stroke_4428" data-name="Stroke 4428" d="M83.529-1865.134v1.029" transform="translate(-82.266 1870.624)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Stroke_4430" data-name="Stroke 4430" d="M83.529-1885.248v1" transform="translate(-82.266 1885.248)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <path id="Stroke_3004" data-name="Stroke 3004" d="M71.123-1838.942s2.5-1.871,3.189-2.323a2.112,2.112,0,0,0,1.068-1.728l0-3.391a1.063,1.063,0,0,0-1.063-1.063,1.063,1.063,0,0,0-1.063,1.063v3.19" transform="translate(-19.314 -46.246)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Stroke_3006" data-name="Stroke 3006" d="M52-1863.016l-.978.833a5.8,5.8,0,0,0-1.907,3.222l-1.369,6.551" transform="translate(-2.319 -34.926)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Stroke_3010" data-name="Stroke 3010" d="M90.965-1898.847h0v17.434a.85.85,0,0,1-.85.851h-3.4" transform="translate(-30.654 -8.874)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Stroke_3010-2" data-name="Stroke 3010" d="M66.439-1897.964" transform="translate(-15.908 -9.517)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Stroke_3010-3" data-name="Stroke 3010" d="M63.324-1893.4v-5.45" transform="translate(-13.643 -8.874)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Stroke_3012" data-name="Stroke 3012" d="M67.575-1854.513h-3.4a.85.85,0,0,1-.85-.849h0v-7.653" transform="translate(-13.643 -34.926)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Linha_250" data-name="Linha 250" x2="15.614" transform="translate(47.14 -1907.879)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

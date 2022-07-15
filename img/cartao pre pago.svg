@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_4363" data-name="Retângulo 4363" width="32" height="32" fill="#fff" stroke="#707070" stroke-width="1.25"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_26520" data-name="Grupo 26520" transform="translate(-42 -48)">
+    <g id="I_-_Simulação_de_crédito_pessoal" data-name="I - Simulação de crédito pessoal" transform="translate(50 56)">
+      <g id="Grupo_de_máscara_37" data-name="Grupo de máscara 37" clip-path="url(#clip-path)">
+        <g id="_32px" data-name="32px" transform="translate(-151.549 -403.789)">
+          <g id="Grupo_10806" data-name="Grupo 10806" transform="translate(153.115 424.798)">
+            <g id="Grupo_10660" data-name="Grupo 10660" transform="translate(0 0)">
+              <g id="Grupo_10658" data-name="Grupo 10658" transform="translate(0 0)">
+                <path id="Caminho_9606" data-name="Caminho 9606" d="M-471.029-318.761l7.048-5.666a3.3,3.3,0,0,1,2.683-.671l11.163,2.114a.812.812,0,0,1,.6.979.973.973,0,0,1-.034.106l-.19.448a.862.862,0,0,1-.869.543l-8.839-.826" transform="translate(471.029 325.156)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+              </g>
+              <g id="Grupo_10659" data-name="Grupo 10659" transform="translate(4.352 0.002)">
+                <path id="Caminho_9607" data-name="Caminho 9607" d="M-443.93-322.362l6.687-2.7c.976-.191,1.252-.065,1.392.181h0a.726.726,0,0,1-.242.955l-9.31,6.075a2.371,2.371,0,0,1-1.685.357l-8.344-1.411a2.378,2.378,0,0,0-2.017.622l-3.657,3.452" transform="translate(461.106 325.152)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_24486" data-name="Grupo 24486" transform="translate(165.269 404.412)">
+            <g id="Grupo_23863" data-name="Grupo 23863" transform="translate(0 0)">
+              <path id="Caminho_10220" data-name="Caminho 10220" d="M-4757.231-5062.165" transform="translate(4765.688 5066.014)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+              <path id="Caminho_10221" data-name="Caminho 10221" d="M-4951.4-5056.051a13.466,13.466,0,0,1,.691,4.085c0,3.348-3.1,3.219-6.7,3.219s-6.181.015-6.181-3.334c0-4.424,3.052-10.083,6.532-10.083,1.56,0,3,1.157,4.107,2.833" transform="translate(4963.599 5066.011)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+              <line id="Linha_50" data-name="Linha 50" x2="7.049" transform="translate(2.981 3.634)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+              <g id="Grupo_23862" data-name="Grupo 23862" transform="translate(2.361 0)">
+                <path id="Caminho_10222" data-name="Caminho 10222" d="M-4900.419-5152.512l2.541-2.5a.653.653,0,0,0-.586-1.056h-6.767a.65.65,0,0,0-.566,1.076l2.884,2.476" transform="translate(4905.974 5156.064)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+              </g>
+            </g>
+            <g id="Grupo_10712" data-name="Grupo 10712" transform="translate(5.029 9.491)">
+              <g id="Grupo_10711" data-name="Grupo 10711" transform="translate(0.254 0)">
+                <line id="Linha_114" data-name="Linha 114" y1="3.82" x2="3.344" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+              </g>
+              <ellipse id="Elipse_57" data-name="Elipse 57" cx="0.654" cy="0.654" rx="0.654" ry="0.654" transform="translate(0 0)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+              <ellipse id="Elipse_58" data-name="Elipse 58" cx="0.654" cy="0.654" rx="0.654" ry="0.654" transform="translate(2.74 2.302)" fill="none" stroke="#e1173f" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Elipse_1756" data-name="Elipse 1756" transform="translate(42 48)" fill="none" stroke="#e1173f" stroke-width="1">
+      <circle cx="24" cy="24" r="24" stroke="none"/>
+      <circle cx="24" cy="24" r="23.5" fill="none"/>
+    </g>
+  </g>
+</svg>

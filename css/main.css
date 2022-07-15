@@ -1,0 +1,764 @@
+.menu {
+    height: 100vh;
+    background-image: url("../img/banner.png");
+    background-repeat: no-repeat;
+    background-size: cover !important;
+}
+
+.navbar-secundario {
+    /* top: 4rem; */
+    background-color: transparent !important;
+}
+
+.navbar-secundario ul li a {
+    color: var(--cinzas-ffffff) !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.navbar-secundario .dropdown-toggle::after {
+    margin-left: 2px !important;
+    vertical-align: 0px;
+    width: 7px;
+    height: 3px;
+    opacity: 1;
+}
+
+.navbar-secundario .navbar-nav .nav-link {
+    padding-left: 0.7rem !important;
+    padding-right: 0.7rem !important;
+}
+
+.sub-title-nav {
+    font-size: 10px;
+    line-height: 5px;
+}
+
+.input-nav-search {
+    background: transparent !important;
+    border-radius: 0% !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: 1px solid var(--cinzas-ffffff) !important;
+    max-width: 138px !important;
+    color: var(--cinzas-ffffff) !important;
+}
+
+.input-nav-search::placeholder {
+    color: var(--cinzas-ffffff) !important;
+    font-size: 12px !important;
+}
+
+.input-nav-search:focus {
+    box-shadow: none !important;
+}
+
+.button-nav-search {
+    border: none !important;
+    background: transparent !important;
+    border-radius: 0% !important;
+    border-bottom: 1px solid var(--cinzas-ffffff) !important;
+}
+
+.button-nav-search:hover {
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+.button-nav-search:focus {
+    box-shadow: none !important;
+}
+
+.breadcrumb-custom {
+    background: transparent !important;
+    color: var(--cinzas-ffffff) !important;
+    font-size: 13px;
+    font-weight: bold;
+
+    margin-top: 4rem;
+}
+.footer{
+    text-align: center;
+}
+
+nav .breadcrumb-custom a {
+    text-decoration: none !important;
+    color: var(--cinzas-ffffff) !important;
+}
+
+.breadcrumb-custom .breadcrumb-item + .breadcrumb-item::before {
+    content: ">" !important;
+    color: var(--cinzas-ffffff) !important;
+}
+
+.title-bradesco {
+    color: var(--cinzas-ffffff);
+    font-size: 83px;
+    line-height: 80px;
+    font-family: Bradesco Sans XBold !important;
+    margin-bottom: 0px !important;
+}
+
+.transparent {
+    color: transparent;
+    -webkit-text-stroke: 2px var(--cinzas-ffffff);
+    text-shadow: none;
+}
+
+.cards-menu {
+    margin-top: 2.5rem;
+}
+
+.card-custom {
+    width: 180px;
+    height: 192px;
+    border-radius: 4px !important;
+    box-shadow: 0px 2px 8px #00000029;
+    border: 0.5px solid #f0f1f5;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: var(--cinzas-47484c) !important;
+}
+
+.card-active {
+    border: none !important;
+    background: transparent linear-gradient(141deg, #5a3a84 0%, #932d69 51%, #c82050 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029 !important;
+    color: var(--cinzas-ffffff) !important;
+}
+
+/* .slick-list {
+    padding-left: 10rem !important;
+} */
+
+.container-outdoor {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-image: url("../img/west.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 318px;
+}
+
+.container-convenio {
+    margin-left: 8rem;
+    margin-right: 6rem;
+}
+
+.titulo-convenio {
+    width: 228px !important;
+    height: 55px !important;
+    font-family: Bradesco Sans Bold;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+}
+
+.text-card-convenio {
+    width: 235px !important;
+    height: 142px !important;
+    font-size: 13px;
+    text-align: left;
+    line-height: 18px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+}
+
+.card-convenio {
+    background: var(--cinzas-ffffff) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--cinzas-f0f1f5);
+    box-shadow: 0px 3px 6px #00000029 !important;
+    border-radius: 8px !important;
+    width: 194px !important;
+    height: 224px !important;
+    opacity: 1;
+    margin-top: 9rem;
+}
+
+.title-card-convenio {
+    font-family: Bradesco Sans Bold;
+    font-size: 15px;
+    line-height: 1rem;
+    letter-spacing: 0px;
+    color: #47484c;
+    text-transform: uppercase;
+}
+
+.descriptions {
+    display: none;
+}
+
+.card-convenio:hover .descriptions {
+    display: block;
+}
+
+.card-convenio:hover .header-card-convenio {
+    display: none;
+}
+
+/* .card-convenio:hover {
+    background-color: red;
+    clip-path: inset(0 0 0 0);
+} */
+
+.card-convenio p {
+    font-size: 12px;
+    /* margin: 16px 20px 10px 15px; */
+    font-family: Bradesco Sans Medium;
+    text-align: center;
+}
+
+.card-convenio a {
+    background: var(--primária-e1173f) 0% 0% no-repeat padding-box;
+    border-radius: 24px;
+    opacity: 1;
+    border: none;
+    color: #ffffff;
+}
+
+#text-descriptions-2 {
+    font-family: Bradesco Sans Medium !important;
+    font-size: 12px;
+    text-align: center;
+    line-height: 18px;
+    letter-spacing: 0px;
+    color: #6d6e71;
+    opacity: 1;
+}
+
+#text-descriptions-3 {
+    font-size: 12px !important;
+    line-height: 18px;
+    font-family: Bradesco Sans Medium;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #6d6e71;
+    opacity: 1;
+}
+
+#text-descriptions-4 {
+    letter-spacing: 0px;
+    color: #6d6e71;
+    opacity: 1;
+    font-size: 12px;
+    font-family: Bradesco Sans Medium;
+    text-align: left;
+}
+
+.btn-western-union {
+    width: 150px;
+    height: 40px;
+    background: var(--primária-e1173f) 0% 0% no-repeat padding-box;
+    background: #e1173f 0% 0% no-repeat padding-box;
+    border-radius: 24px;
+    opacity: 1;
+    border: none;
+}
+.btn-western-union a{
+    color: #FFFFFF;
+opacity: 1;
+} 
+.btn-western-union a:hover{
+    color: #FFFFFF;
+    opacity: 1;
+    text-decoration: none;
+} 
+.ul-western-union {
+    width: 131px;
+    height: 74px;
+    text-transform: capitalize;
+    opacity: 1;
+    margin-top: 250px;
+}
+
+.titulo-atestado {
+    width: 256px !important;
+    height: 55px !important;
+    letter-spacing: 0px;
+    color: #47484c;
+    opacity: 1;
+    text-align: center;
+    font-family: Bradesco Sans SemiBold !important;
+    font-size: 22px !important;
+    line-height: 28px;
+}
+
+.sub-tilte-atestado {
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    text-align: left;
+    width: 243px;
+    height: 17px;
+    font-family: Bradesco Sans SemiBold;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.text-atestado {
+    letter-spacing: 0px;
+    color: #6d6e71;
+    opacity: 1;
+    text-align: left;
+    font-size: 12px;
+    line-height: 18px;
+    font-family: Bradesco Sans Medium;
+}
+
+#img-atestado {
+    margin-left: 200px;
+}
+
+#text-li {
+    font-family: Bradesco Sans Bold !important;
+    font-size: 11px;
+    line-height: 5px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #6d6e71;
+}
+
+.text-atestado-under {
+    font-size: 12px;
+    line-height: 18px;
+    font-family: Bradesco Sans Medium;
+    letter-spacing: 0px;
+    color: #6d6e71 !important;
+    text-align: center !important;
+}
+
+.carousel-convenio .slick-list {
+    padding-left: 0% !important;
+}
+
+.carousel-convenio .slick-slide {
+    filter: blur(0);
+    opacity: 1;
+}
+
+.title-card-convenio-mobile {
+    color: var(--cinzas-47484c);
+}
+
+.ul-mobile {
+    padding-left: 1rem;
+    line-height: 0.8rem;
+    font-size: 10px;
+    text-align: left;
+    font-weight: bold;
+    color: var(--cinzas-47484c);
+}
+
+.card-cartao-custom {
+    border-radius: 10px !important;
+    box-shadow: 0px 3px 6px #00000029;
+    background: var(--cinzas-ffffff) 0% 0% no-repeat padding-box !important;
+    border: none !important;
+}
+
+.img-grafismo {
+    width: 338px;
+    height: 371px;
+    margin-left: 50rem;
+    margin-top: -290px;
+    z-index: 1;
+}
+
+.text-beneficios {
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: center;
+    font: normal normal medium 16px/26px Bradesco Sans;
+    color: #6f6f6f;
+    opacity: 0.6;
+}
+
+.item-card-recarga {
+    width: 291px !important;
+    height: 296px;
+    box-shadow: 0px 3px 16px #00000029;
+    border-radius: 32px !important;
+    text-align: center !important;
+    opacity: 1;
+    border: none !important;
+    background: var(--cinzas-ffffff) 0% 0% no-repeat padding-box;
+}
+
+.btn-padrao {
+    width: 200px;
+    height: 48px;
+    background: var(--primária-e1173f) 0% 0% no-repeat padding-box !important;
+    border-radius: 24px !important;
+    border: none !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+}
+
+.btn-padrao-outline {
+    width: 200px;
+    height: 48px;
+    background: var(--cinzas-ffffff) !important;
+    border-radius: 24px !important;
+    border: 1px solid var(--primária-e1173f) !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+    color: var(--primária-e1173f) !important;
+}
+
+@media (min-width: 320px) {
+    .menu {
+        width: 100%;
+        height: 160px;
+        background-image: url("../img/banner-mobile.png");
+        background-size: 100% 100%;
+    }
+
+    .img-card-mobile {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .container-convenio {
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+
+    .container-outdoor {
+        height: auto;
+    }
+
+    .card-convenio {
+        margin-top: 0rem;
+    }
+}
+
+@media (min-width: 375px) {
+    .menu {
+        width: 100%;
+        height: 170px;
+        background-image: url("../img/banner-mobile.png");
+        background-size: contain;
+    }
+
+    .img-card-mobile {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .btn-padrao {
+        width: 200px;
+        height: 48px;
+        background: #065F9B !important;
+        border-radius: 24px !important;
+        border: none !important;
+        font-size: 14px !important;
+        font-weight: bold !important;
+    }
+    .btn-padrao-outline {
+        width: 200px;
+        height: 48px;
+        background: var(--cinzas-ffffff) !important;
+        border-radius: 24px !important;
+        border: 1px solid  #065F9B!important;
+        font-size: 14px !important;
+        font-weight: bold !important;
+        color: #065F9B !important;
+    }
+
+    .container-convenio {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    .container-outdoor {
+        height: auto;
+    }
+
+    .card-convenio {
+        margin-top: 0rem;
+    }
+}
+
+@media (min-width: 425px) {
+    .menu {
+        width: 100%;
+        height: 210px;
+        background-image: url("../img/banner-mobile.svg");
+        background-size: 100% 100%;
+    }
+
+    .img-card-mobile {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .container-convenio {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    .container-outdoor {
+        height: auto;
+    }
+
+    .card-convenio {
+        margin-top: 0rem;
+    }
+}
+
+@media (min-width: 550px) {
+    .menu {
+        width: 100%;
+        height: 250px;
+        background-image: url("../img/banner-mobile.png");
+        background-size: 100% 100%;
+    }
+}
+
+@media (min-width: 550px) {
+    .menu {
+        width: 100%;
+        height: 300px;
+        background-image: url("../img/banner-mobile.png");
+        background-size: 100% 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .menu {
+        width: 100%;
+        height: 340px;
+        background-image: url("../img/banner-mobile.png");
+        background-size: cover;
+    }
+
+    .container-bradesco {
+        margin-left: 8rem;
+        margin-right: 8rem;
+    }
+
+    .breadcrumb-custom {
+        margin-top: 2.5rem;
+    }
+
+    .img-card-mobile {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .container-convenio {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .menu {
+        height: 100%;
+        background-image: url("../img/banner.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .title-bradesco-div {
+        margin-top: 2.5rem;
+    }
+
+    .container-bradesco {
+        margin-left: 6rem;
+        margin-right: 6rem;
+    }
+
+    .breadcrumb-custom {
+        margin-top: 2.5rem;
+    }
+
+    .img-card-mobile {
+        display: flex;
+        justify-content: left;
+        width: 100%;
+    }
+
+    .container-convenio {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    .card-convenio {
+        margin-top: 5rem;
+    }
+
+    .container-outdoor {
+        height: auto;
+    }
+}
+
+@media (min-width: 1200px) {
+    .menu {
+        height: 100%;
+        background-image: url("../img/banner.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .title-bradesco-div {
+        margin-top: 8rem;
+    }
+
+    .container-bradesco {
+        margin-left: 11rem;
+        margin-right: 11rem;
+    }
+
+    .breadcrumb-custom {
+        margin-top: 4rem;
+    }
+
+    .img-grafismo {
+        margin-left: 42rem;
+    }
+
+    .img-card-mobile {
+        display: flex;
+        justify-content: left;
+        width: 100%;
+    }
+
+    .container-outdoor {
+        height: 318px;
+    }
+
+    .card-convenio {
+        margin-top: 9rem;
+    }
+
+    .container-convenio {
+        margin-left: 5rem;
+        margin-right: 2rem;
+    }
+}
+
+@media (min-width: 1300px) {
+    .img-grafismo {
+        margin-left: 48rem;
+    }
+}
+
+@media (min-width: 1400px) {
+    .menu {
+        height: 100%;
+        background-image: url("../img/banner.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .title-bradesco-div {
+        margin-top: 10rem;
+    }
+
+    .container-bradesco {
+        margin-left: 13rem;
+        margin-right: 13rem;
+    }
+
+    .breadcrumb-custom {
+        margin-top: 4rem;
+    }
+
+    .img-grafismo {
+        margin-left: 51rem;
+    }
+
+    .container-convenio {
+        margin-left: 10rem;
+        margin-right: 4rem;
+    }
+}
+
+@media (min-width: 1400px) {
+    .container-bradesco {
+        margin-left: 15rem;
+        margin-right: 15rem;
+    }
+}
+
+@media (min-width: 1600px) {
+    .menu {
+        height: 100vh;
+        background-image: url("../img/banner.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .title-bradesco-div {
+        margin-top: 15rem;
+    }
+
+    .container-bradesco {
+        margin-left: 18rem;
+        margin-right: 18rem;
+    }
+
+    .breadcrumb-custom {
+        margin-top: 4rem;
+    }
+}
+
+@media (min-width: 1700px) {
+    .container-bradesco {
+        margin-left: 20rem;
+        margin-right: 20rem;
+    }
+
+    .img-grafismo {
+        margin-left: 55rem;
+    }
+
+    .container-convenio {
+        margin-left: 16rem;
+        margin-right: 10rem;
+    }
+}
+
+@media (min-width: 1800px) {
+    .menu {
+        height: 100vh;
+        background-image: url("../img/banner.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .title-bradesco-div {
+        margin-top: 20rem;
+    }
+
+    .container-bradesco {
+        margin-left: 23rem;
+        margin-right: 23rem;
+    }
+
+    .breadcrumb-custom {
+        margin-top: 4rem;
+    }
+}
+
+@media (min-width: 1900px) {
+    .title-bradesco-div {
+        margin-top: 22rem;
+    }
+
+    .container-bradesco {
+        margin-left: 25rem;
+        margin-right: 25rem;
+    }
+}

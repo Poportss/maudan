@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+  <g id="Grupo_23909" data-name="Grupo 23909" transform="translate(4098 -3319)">
+    <g id="Grupo_23898" data-name="Grupo 23898" transform="translate(-239.5 26.888)">
+      <path id="Stroke_7749" data-name="Stroke 7749" d="M33.454,24.455a17.452,17.452,0,1,1-9.8-23.321" transform="translate(-3834.5 3317.112)" fill="none" stroke="#e80033" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Stroke_7751" data-name="Stroke 7751" d="M19.5,3.49V6.569a1,1,0,0,1-.292.705l-3.2,3.2-3.2,3.2a.991.991,0,0,1-.705.293H10.023a1,1,0,0,1-1-1V10.887a1,1,0,0,0-.292-.707L5.826,7.275a1,1,0,0,1-.292-.705V4.489a1,1,0,0,0-1-1H3.04a1,1,0,0,1-1-1V1a1,1,0,0,0-1-1H0" transform="translate(-3833.052 3327.602)" fill="none" stroke="#e80033" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Stroke_7753" data-name="Stroke 7753" d="M0,0V4.239a1,1,0,0,0,1,1h1.5a1,1,0,0,1,1,1v1.5a1,1,0,0,0,1,1H8.9" transform="translate(-3824.026 3318.873)" fill="none" stroke="#e80033" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Stroke_7755" data-name="Stroke 7755" d="M9.9,3.491H7.98a1,1,0,0,1-1-1V1a1,1,0,0,0-1-1h-1.5a1,1,0,0,0-1,1v1.5a1,1,0,0,1-1,1H1a1,1,0,0,0-1,1V10.11" transform="translate(-3813.552 3341.567)" fill="none" stroke="#e80033" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Stroke_7757" data-name="Stroke 7757" d="M3.48,1.081C3.413.483,2.863,0,1.664,0A1.514,1.514,0,0,0,0,1.416C-.031,2.149.254,2.667,1.685,3s1.825.849,1.793,1.582c-.031.7-.4,1.4-1.793,1.4C.353,5.984.058,5.375,0,4.917" transform="translate(-3808.303 3322.876)" fill="none" stroke="#e80033" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Stroke_7759" data-name="Stroke 7759" d="M.5.011V1.377" transform="translate(-3807.13 3328.849)" fill="none" stroke="#e80033" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Stroke_7761" data-name="Stroke 7761" d="M.5.02V1.362" transform="translate(-3807.13 3321.506)" fill="none" stroke="#e80033" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Stroke_7763" data-name="Stroke 7763" d="M17.457,8.728a8.728,8.728,0,1,0-8.728,8.728A8.728,8.728,0,0,0,17.457,8.728Z" transform="translate(-3815.297 3317.127)" fill="none" stroke="#e80033" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+    </g>
+    <g id="Elipse_1543" data-name="Elipse 1543" transform="translate(-4098 3319)" fill="none" stroke="#e1173f" stroke-width="1">
+      <circle cx="42" cy="42" r="42" stroke="none"/>
+      <circle cx="42" cy="42" r="41.5" fill="none"/>
+    </g>
+  </g>
+</svg>

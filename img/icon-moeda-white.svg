@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49.25" height="49.25" viewBox="0 0 49.25 49.25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_4363" data-name="Retângulo 4363" width="32" height="32" fill="#fff" stroke="#707070" stroke-width="1.25"/>
+    </clipPath>
+  </defs>
+  <g id="Menu_Card_Icone" data-name="Menu/Card/Icone" transform="translate(-918.714 -888.385)">
+    <path id="Stroke_4408" data-name="Stroke 4408" d="M48,24A24,24,0,1,1,24,0,24,24,0,0,1,48,24Z" transform="translate(919.339 889.01)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+    <g id="I_-_Compra_de_moeda" data-name="I - Compra de moeda" transform="translate(927.339 897.01)">
+      <g id="Grupo_de_máscara_37" data-name="Grupo de máscara 37" clip-path="url(#clip-path)">
+        <g id="Grupo_26519" data-name="Grupo 26519" transform="translate(13.505 13.706)">
+          <g id="Camada_1" data-name="Camada 1" transform="translate(-3.807 -10.32)">
+            <path id="Stroke_4931" data-name="Stroke 4931" d="M-621.593,1055.076c3.607-2.6,8.258-2.861,11.124-.324" transform="translate(621.8 -1052.871)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Stroke_7606" data-name="Stroke 7606" d="M-621.865,1052.588l-.465,2.417,2.618.5" transform="translate(622.33 -1052.588)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Stroke_4931-2" data-name="Stroke 4931" d="M-609.541,1132.6c-3.607,2.6-8.259,2.861-11.124.324" transform="translate(621.132 -1110.155)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Stroke_7606-2" data-name="Stroke 7606" d="M-587.452,1132.966l.465-2.417-2.618-.5" transform="translate(598.784 -1108.32)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+          </g>
+          <g id="Camada_2" data-name="Camada 2" transform="translate(-12.864 -4.683)">
+            <path id="Stroke_4646" data-name="Stroke 4646" d="M-640.384,1079.8a7.119,7.119,0,0,1-7.118,7.119,7.119,7.119,0,0,1-7.118-7.119,7.119,7.119,0,0,1,7.118-7.119A7.119,7.119,0,0,1-640.384,1079.8Z" transform="translate(654.62 -1072.686)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Stroke_4648" data-name="Stroke 4648" d="M-572.933,1087.305a3.139,3.139,0,0,0-4.3,1.11,3.139,3.139,0,0,0,1.11,4.3,3.141,3.141,0,0,0,3.19,0" transform="translate(599.252 -1082.892)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Stroke_4650" data-name="Stroke 4650" d="M-581.936,1094.316h4.745" transform="translate(602.323 -1088.249)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Stroke_4652" data-name="Stroke 4652" d="M-581.936,1101.808h4.745" transform="translate(602.323 -1093.639)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Stroke_7739" data-name="Stroke 7739" d="M-631.736,1089.9c-.057-.514-.531-.93-1.561-.93a1.3,1.3,0,0,0-1.428,1.165c0,.018,0,.036,0,.055-.027.631.218,1.076,1.448,1.362s1.572.731,1.542,1.361c-.027.6-.347,1.206-1.542,1.206-1.146,0-1.4-.524-1.448-.917" transform="translate(640.31 -1084.396)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Stroke_7741" data-name="Stroke 7741" d="M-629.593,1107.344v1.175" transform="translate(636.613 -1097.623)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Stroke_7743" data-name="Stroke 7743" d="M-629.593,1084.845V1086" transform="translate(636.613 -1081.434)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+            <path id="Stroke_4646-2" data-name="Stroke 4646" d="M-581.6,1079.8a7.118,7.118,0,0,1-7.118,7.119,7.118,7.118,0,0,1-7.118-7.119,7.118,7.118,0,0,1,7.118-7.119A7.118,7.118,0,0,1-581.6,1079.8Z" transform="translate(612.323 -1072.686)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

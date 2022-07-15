@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1218" height="890" viewBox="0 0 1218 890">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.09" y1="-0.06" x2="-0.172" y2="1.198" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2d469b"/>
+      <stop offset="1" stop-color="#ec1940"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="bg" width="1218" height="890" transform="translate(0 1899)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_8347" data-name="Retângulo 8347" width="1431.97" height="963" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.839" y1="0.948" x2="0.204" y2="0.374" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1173f" stop-opacity="0.161"/>
+      <stop offset="1" stop-color="#8322a5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.569" y1="-0.129" x2="1.06" y2="1.07" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1173f"/>
+      <stop offset="0.702" stop-color="#bc1c76"/>
+      <stop offset="0.78" stop-color="#b81d7c"/>
+      <stop offset="1" stop-color="#8322a5"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_8346" data-name="Retângulo 8346" width="544" height="480" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" y1="1" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f36178"/>
+      <stop offset="0.429" stop-color="#cb0a34"/>
+      <stop offset="1" stop-color="#b41a83"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_174" data-name="Grupo 174" transform="translate(0 -1899)" opacity="0.64" clip-path="url(#clip-path)">
+    <g id="Grafismo" transform="translate(0 1826)" opacity="0.48" clip-path="url(#clip-path-2)">
+      <path id="Caminho_11344" data-name="Caminho 11344" d="M-452.437-417.311,801.412,301.555h487.6L-514.932-689.608Z" transform="translate(142.962 661.445)" fill="url(#linear-gradient-2)"/>
+      <path id="Caminho_11345" data-name="Caminho 11345" d="M296.818,174.064,0,0V70.939l296.818,175.82Z" transform="translate(0 80.741)" fill="url(#linear-gradient-3)"/>
+      <g id="Grupo_26598" data-name="Grupo 26598" transform="translate(-125 308)">
+        <g id="Grupo_de_máscara_173" data-name="Grupo de máscara 173" clip-path="url(#clip-path-3)">
+          <path id="Caminho_11346" data-name="Caminho 11346" d="M-310.43,504.662,486.49,965.111M-309.918,496.955,487,957.4M-309.4,489.247,487.515,949.7M-308.892,481.541l796.919,460.45M-308.38,473.834,488.54,934.283M-307.867,466.127,489.052,926.576M-307.355,458.42l796.92,460.449M-306.842,450.713,490.077,911.162M-306.33,443.006,490.59,903.455M-305.817,435.3,491.1,895.749M-305.3,427.592l796.919,460.45M-304.792,419.885l796.92,460.45M-304.28,412.178,492.64,872.627M-303.767,404.471,493.153,864.92M-303.254,396.764,493.665,857.213M-302.742,389.057l796.92,460.449M-302.23,381.35,494.69,841.8M-301.717,373.644,495.2,834.093M-301.2,365.937l796.92,460.448M-300.692,358.229l796.92,460.45M-300.179,350.522,496.74,810.972" transform="translate(61.26 -485.522)" fill="#fff" stroke="#fff" stroke-width="0.374"/>
+        </g>
+        <path id="Caminho_11347" data-name="Caminho 11347" d="M0,11.943,272.217,169.42V156.607L0,0Z" transform="translate(144.835 220.245)" fill="#fff"/>
+        <path id="Caminho_11348" data-name="Caminho 11348" d="M0,12.868,293.3,182.54v-14.3L0,0Z" transform="translate(90.805 166.32)" fill="url(#linear-gradient-4)"/>
+      </g>
+    </g>
+  </g>
+</svg>
